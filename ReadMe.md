@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Futura Dev Full Stack<br>💻 Códigos do Amanhã<br>🤝 Resilia & Ebanx<br>🐶 Mãe de pet<br>❤️ Otome por opção
+🌱 Futura Dev Full Stack<br>💻 Códigos do Amanhã<br>🤝 Resilia & Ebanx<br>
 
 
 # 💻 Tech Stack:
