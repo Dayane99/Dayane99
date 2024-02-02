@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Desenvolvedora Full Stack<br>💻 Códigos do Amanhã<br>🤝 Desenvolvex<br>
+🌱 Desenvolvedora Full Stack<br>💻 Códigos do Amanhã-EBANX<br>🤝 Desenvolve-Boticário<br>
 
 
 # 💻 Tech Stack:
