@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Desenvolvedora Full Stack | JavaScript | React<br>📱 Desenvolvedora Mobile | Flutter | Dart<br>🔛 En transição de carreira<br>
+🔛 Em transição de carreira<br>📱 Desenvolvedora Mobile | Flutter | Dart<br>💻 Desenvolvedora Full Stack | JavaScript | React<br>
 
 
 # 💻 Tech Stack:
