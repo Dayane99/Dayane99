@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 Desenvolvedora Full Stack<br>💻 Códigos do Amanhã-EBANX<br>🤝 Desenvolve-Boticário<br>
+💻 Desenvolvedora Full Stack | JavaScript | React<br>📱 Desenvolvedora Mobile | Flutter | Dart<br>🔛 En transição de carreira<br>
 
 
 # 💻 Tech Stack:
